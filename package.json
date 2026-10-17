@@ -1,0 +1,31 @@
+{
+  "name": "javascript-core-lab",
+  "version": "1.0.0",
+  "description": "Core JavaScript programs ranging from foundational algorithms to intermediate asynchronous & design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_all.js",
+    "demo:01": "node 01_palindrome_checker.js",
+    "demo:02": "node 02_array_frequency.js",
+    "demo:03": "node 03_unit_converter.js",
+    "demo:04": "node 04_number_math_utils.js",
+    "demo:05": "node 05_kv_store_ttl.js",
+    "demo:06": "node 06_debounce_throttle.js",
+    "demo:07": "node 07_deep_clone_equals.js",
+    "demo:08": "node 08_async_task_pool.js",
+    "demo:09": "node 09_event_emitter.js",
+    "demo:10": "node 10_stream_pipeline.js"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms",
+    "data-structures",
+    "event-emitter",
+    "concurrency",
+    "debounce",
+    "throttle",
+    "stream"
+  ],
+  "author": "Harsh Kr (Harshified118)",
+  "license": "MIT"
+}
